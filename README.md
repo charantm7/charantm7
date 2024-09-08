@@ -9,7 +9,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=charantm7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🌱 Striving for a career in cyber security.<br>🔭 Lives in Bangalore<br>⚡ Reach out me here charantm8787@gmail.com<br>
+🔭 Lives in Bangalore<br>⚡ Reach out me here charantm8787@gmail.com<br>
 # GitHub stats:
 ![](https://github-readme-stats.vercel.app/api?username=charantm7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=charantm7&theme=dark&hide_border=false)<br/>
