@@ -9,7 +9,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=charantm7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🔭 Lives in Bangalore<br>⚡ Reach out me here charantm8787@gmail.com<br>
+🌱 Lives in Bangalore<br>⚡ Reach out me here charantm8787@gmail.com<br> 🔭 I’m currently working on Openwisp & Vorex django project.
 # GitHub stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charantm7&theme=dark" alt="charantm7" /></p>
 
