@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <h1>
-      THINK BEFORE YOU CLICK!
-    </h1>
-  </head>
-</html>
-
 [![](https://visitcount.itsvg.in/api?id=charantm7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 🌱 Lives in Bangalore<br>⚡ Reach out me here charantm8787@gmail.com<br> 🔭 I’m currently working on Openwisp & Vorex django project.
