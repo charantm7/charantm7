@@ -1,5 +1,5 @@
 🔭 I’m currently working on Openwisp & Vorex django project.
-# GitHub stats:
+# GitHub stats!
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charantm7&theme=dark" alt="charantm7" /></p>
 
 ![](https://github-readme-stats.vercel.app/api?username=charantm7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
