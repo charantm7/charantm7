@@ -41,7 +41,7 @@
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/charantm/) 
-- ✉️ Email: [charanntm.dev@gmail.com](mailto:charanntm.dev@gmail.com)
+- ✉️ [charanntm.dev@gmail.com](mailto:charanntm.dev@gmail.com)
 
 </br>
 
