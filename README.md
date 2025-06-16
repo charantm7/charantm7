@@ -1,12 +1,21 @@
 # 👋 Hey there! I'm Charan TM
 
-🔭 I'm currently pursuing **Computer Science and Engineering**</br>
+<table>
+  <tr>
+    <td>
 
-🧪 Learning and building in **Backend, Cloud, Generative AI**</br>
+🔭 I'm currently pursuing **Computer Science and Engineering**</br><br/>
+🧪 Learning and building in **Backend, Cloud, Generative AI**</br><br/>
+💻 Open source contributor on <a href="https://github.com/wagtail/">Wagtail</a>
 
-💻 Open source contributor on [Wagtail](https://github.com/wagtail/)
+  </td>
+    <td>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ5d3o4aXgyOGNlbnZiYWxlanFnd3FnMjN6YngwYTY0cWFzeHpwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="200" alt="Handshake Gif"/>
+    </td>
+  </tr>
+</table>
 
-</br>
+
 
 ## 📊 GitHub Stats
 
