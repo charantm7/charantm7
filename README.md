@@ -7,6 +7,7 @@
     <td>
 
 🔭 I'm currently pursuing **Computer Science and Engineering**</br><br/>
+🧩 Founder of Syndicate Community <a herf="https://chat.whatsapp.com/DeDalHva5JkKbTNZRDAMYt">Join Community</a></br><br/>
 🧪 Learning and building in **Backend, Cloud, Generative AI**</br><br/>
 💻 Open source contributor on <a href="https://github.com/wagtail/">Wagtail</a>
 
