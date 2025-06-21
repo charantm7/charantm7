@@ -8,7 +8,7 @@
 
 🔭 I'm currently pursuing **Computer Science and Engineering**</br><br/>
 🧪 Learning and building in **Backend, Cloud, Generative AI**</br><br/>
-🧩 Founder of Syndicate Community - <a href="https://chat.whatsapp.com/DeDalHva5JkKbTNZRDAMYt">Join Community</a></br><br/>
+🧩 Join Syndicate Community - <a href="https://chat.whatsapp.com/DeDalHva5JkKbTNZRDAMYt">Join Community</a></br><br/>
 📑 Check out my resume here - <a href="https://drive.google.com/file/d/1WP7snAuPjjVY5yuhR0M-g6ZCvATQSNBX/view?usp=sharing">My Resume</a></br><br/>
 💻 Open source contributor on - <a href="https://github.com/wagtail/">Wagtail</a>
 
