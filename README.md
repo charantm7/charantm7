@@ -2,22 +2,18 @@
 
 <p align = 'left'> <img src="https://komarev.com/ghpvc/?username=charantm7&label=PROFILE+VIEWS"/></p>
 
-<table>
-  <tr>
-    <td>
-
-🔭 I'm currently pursuing **Computer Science and Engineering**</br><br/>
-🧪 Learning and building in **Backend, Cloud, Generative AI**</br><br/>
-🧩 Join Syndicate Community - <a href="https://chat.whatsapp.com/DeDalHva5JkKbTNZRDAMYt">Join Community</a></br><br/>
-📑 Check out my resume here - <a href="https://drive.google.com/file/d/1WP7snAuPjjVY5yuhR0M-g6ZCvATQSNBX/view?usp=sharing">My Resume</a></br><br/>
-💻 Open source contributor on - <a href="https://github.com/wagtail/">Wagtail</a>
-
-  </td>
-    <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ5d3o4aXgyOGNlbnZiYWxlanFnd3FnMjN6YngwYTY0cWFzeHpwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="200" alt="Handshake Gif"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 10px;">
+    🔭 I'm currently pursuing <strong>Computer Science and Engineering</strong><br/><br/>
+    🧪 Learning and building in <strong>Backend, Cloud, Generative AI</strong><br/><br/>
+    🧩 Join Syndicate Community - <a href="https://chat.whatsapp.com/DeDalHva5JkKbTNZRDAMYt">Join Community</a><br/><br/>
+    📑 Check out my resume here - <a href="https://drive.google.com/file/d/1WP7snAuPjjVY5yuhR0M-g6ZCvATQSNBX/view?usp=sharing">My Resume</a><br/><br/>
+    💻 Open source contributor on - <a href="https://github.com/wagtail/">Wagtail</a>
+  </div>
+  <div style="flex: 1 1 200px; min-width: 100px; text-align: center; padding: 10px;">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ5d3o4aXgyOGNlbnZiYWxlanFnd3FnMjN6YngwYTY0cWFzeHpwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="200" alt="Handshake Gif"/>
+  </div>
+</div>
 
 
 
