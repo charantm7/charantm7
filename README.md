@@ -51,6 +51,11 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+<img src="https://miro.medium.com/v2/resize:fit:853/1*1DBe4cCQYfpM0oNXl_kH2w.png" 
+     alt="LangChain" 
+     width="80" 
+     height="25" 
+     style="border-radius: 10px;">
 </br>
 
 ## 📫 Let's Connect
