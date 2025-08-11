@@ -11,9 +11,6 @@
       📑 Check out my resume here - <a href="https://drive.google.com/file/d/1WP7snAuPjjVY5yuhR0M-g6ZCvATQSNBX/view?usp=sharing">My Resume</a><br/><br/>
       💻 Open source contributor on - <a href="https://github.com/wagtail/">Wagtail</a>
     </td>
-    <td style="text-align: center;">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ5d3o4aXgyOGNlbnZiYWxlanFnd3FnMjN6YngwYTY0cWFzeHpwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="200" alt="Handshake Gif"/>
-    </td>
   </tr>
 </table>
 
