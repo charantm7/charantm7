@@ -2,7 +2,6 @@
 
 <p align = 'left'> <img src="https://komarev.com/ghpvc/?username=charantm7&label=PROFILE+VIEWS"/></p>
 
-
 <table>
   <tr>
     <td style="vertical-align: top;">
