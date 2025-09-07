@@ -8,7 +8,7 @@
       🔭 I'm currently pursuing <strong>Computer Science and Engineering</strong><br/><br/>
       🧪 Learning and building in <strong>FastAPI, System Design, Agentic AI</strong><br/><br/>
       🧩 Join Syndicate Community - <a href="https://chat.whatsapp.com/DeDalHva5JkKbTNZRDAMYt">Join Community</a><br/><br/>
-      📑 Check out my resume here - <a href="https://drive.google.com/file/d/1WP7snAuPjjVY5yuhR0M-g6ZCvATQSNBX/view?usp=sharing">My Resume</a><br/><br/>
+      📑 Check out my resume here - <a href="https://drive.google.com/file/d/13E1nJXLTS2AmvXgSa6AY8Dm_VE_3jFyP/view?usp=sharing">My Resume</a><br/><br/>
       💻 Open source contributor on - <a href="https://github.com/wagtail/">Wagtail</a>
     </td>
   </tr>
