@@ -2,17 +2,11 @@
 
 <p align = 'left'> <img src="https://komarev.com/ghpvc/?username=charantm7&label=PROFILE+VIEWS"/></p>
 
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      🔭 I'm currently pursuing <strong>Computer Science and Engineering</strong><br/><br/>
-      🧪 Learning and building in <strong>FastAPI, System Design, Agentic AI</strong><br/><br/>
-      🧩 Join Syndicate Community - <a href="https://chat.whatsapp.com/DeDalHva5JkKbTNZRDAMYt">Join Community</a><br/><br/>
-      📑 Check out my resume here - <a href="https://drive.google.com/file/d/1j5SqPBT2rcRIlHlkb9_-35A4DXy4qfUX/view?usp=sharing">My Resume</a><br/><br/>
-      💻 Open source contributor on - <a href="https://github.com/wagtail/">Wagtail</a>
-    </td>
-  </tr>
-</table>
+ -  🌱 I'm currently pursuing <strong>Computer Science and Engineering</strong><br/><br/>
+ -  👨‍💻 Learning and building in <strong>FastAPI, System Design, Agentic AI</strong><br/><br/>
+ -  🧩 Join Syndicate Community - <a href="https://chat.whatsapp.com/DeDalHva5JkKbTNZRDAMYt">Join Community</a><br/><br/>
+ -  📑 Check out my resume here - <a href="https://drive.google.com/file/d/1j5SqPBT2rcRIlHlkb9_-35A4DXy4qfUX/view?usp=sharing">My Resume</a><br/><br/>
+ -  💻 Open source contributor on - <a href="https://github.com/wagtail/">Wagtail</a>
 
 
 ## 📊 GitHub Stats
