@@ -1,16 +1,18 @@
-# 👋 Hey there! I'm Charan TM
+<h1 align="center">👋 Hi, I'm Charan TM</h1>
+<h4 align="center">Crafting Scalable Backends | Real-Time Systems | AI-Powered Applications</h4>
 
 <p align = 'left'> <img src="https://komarev.com/ghpvc/?username=charantm7&label=PROFILE+VIEWS"/></p>
 
- -  🌱 I'm currently pursuing <strong>Computer Science and Engineering</strong>
+ -  🎓 Pursuing **Computer Science and Engineering**  
  
- -  👨‍💻 Learning and building in <strong>FastAPI, System Design, Agentic AI</strong>
+ -  💻 Building in **FastAPI, System Design, Agentic AI**
  
  -  🧩 Join Syndicate Community - <a href="https://chat.whatsapp.com/DeDalHva5JkKbTNZRDAMYt">Join Community</a>
  
  -  📑 Check out my resume here - <a href="https://drive.google.com/file/d/1j5SqPBT2rcRIlHlkb9_-35A4DXy4qfUX/view?usp=sharing">My Resume</a>
  
- -  💻 Open source contributor on - <a href="https://github.com/wagtail/">Wagtail</a>
+ -  🤝 Open source contributor @ - <a href="https://github.com/wagtail/">Wagtail</a>
+
 
 ## 📊 GitHub Stats
 
