@@ -11,9 +11,13 @@
  -  📑 Check out my resume here - <a href="https://drive.google.com/file/d/1j5SqPBT2rcRIlHlkb9_-35A4DXy4qfUX/view?usp=sharing">My Resume</a>
  
  -  💻 Open source contributor on - <a href="https://github.com/wagtail/">Wagtail</a>
- 
- </br>
- 
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=charantm7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=charantm7&theme=dark&hide_border=false)
+
+
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -44,14 +48,7 @@
      width="80" 
      height="25" 
      style="border-radius: 10px;">
-</br>
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=charantm7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=charantm7&theme=dark&hide_border=false)
-
-</br>
 
 ## 📫 Let's Connect
 
