@@ -2,7 +2,6 @@
 <h4 align="center">Crafting Scalable Backends | Real-Time Systems | AI-Powered Applications | RESTful APIs</h4>
 <p align = 'left'> <img src="https://komarev.com/ghpvc/?username=charantm7&label=PROFILE+VIEWS"/></p>
 
-
  -  🎓 Pursuing **Computer Science and Engineering**  
  
  -  💻 Building in **FastAPI, System Design, Agentic AI**
