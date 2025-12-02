@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hi, I'm Charan TM</h1>
 
 <h4 align="center">Crafting Scalable Backends | Real-Time Systems | AI-Powered Applications | RESTful APIs</h4>
