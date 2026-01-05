@@ -5,13 +5,11 @@
 
  -  🎓 Pursuing **Computer Science and Engineering**  
  
- -  💻 Building in **FastAPI, System Design, Agentic AI**
+ -  💻 Building in **FastAPI, System Design, SQL, Agentic AI**
  
  -  🧩 Join Syndicate Community - <a href="https://chat.whatsapp.com/DeDalHva5JkKbTNZRDAMYt">Join Community</a>
  
  -  📑 Check out my resume here - <a href="https://drive.google.com/file/d/1j5SqPBT2rcRIlHlkb9_-35A4DXy4qfUX/view?usp=sharing">My Resume</a>
- 
- -  🤝 Open source contributor @ - <a href="https://github.com/wagtail/">Wagtail</a>
 
 
 ## 📊 GitHub Stats
