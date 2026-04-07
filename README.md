@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm Charan TM</h1>
 
 <h4 align="center">Building Scalable Backends| RESTful APIs | Real-Time Systems | AI-Powered Applications</h4>
+
 <p align = 'left'> <img src="https://komarev.com/ghpvc/?username=charantm7&label=PROFILE+VIEWS"/></p>
 
 
