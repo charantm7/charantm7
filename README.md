@@ -5,6 +5,7 @@
 <p align = 'left'> <img src="https://komarev.com/ghpvc/?username=charantm7&label=PROFILE+VIEWS"/></p>
 
 
+
  -  🎓 Pursuing **Computer Science and Engineering**  
  
  -  💻 Building in **FastAPI, System Design, SQL, Agentic AI**
