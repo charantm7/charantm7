@@ -18,7 +18,6 @@
 ## 📊 GitHub Stats
 ![charantm7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=charantm7&theme=dark&hide_border=false)
 
-![charans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charantm7&theme=react&bg_color=151515&line=fb8c00&point=fb8c00)
 
 ## 🛠 Tech Stack
 
