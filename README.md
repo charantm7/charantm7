@@ -16,9 +16,9 @@
 
 
 ## 📊 GitHub Stats
-
+![charantm7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=charantm7&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=charantm7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=charantm7&theme=dark&hide_border=false)
+
 
 
 ## 🛠 Tech Stack
