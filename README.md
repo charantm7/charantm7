@@ -16,7 +16,7 @@ I build scalable backend systems, REST APIs, event-driven architectures, and AI-
 
  - Reach out me at [charanntm.dev@gmail.com](mailto:charanntm.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/charantm/) 
  
- -  Check out my resume here - <a href="https://drive.google.com/file/d/1j5SqPBT2rcRIlHlkb9_-35A4DXy4qfUX/view?usp=sharing">My Resume</a>
+ -  Check out my resume here - <a href="https://drive.google.com/file/d/1m3cmdgo7-vI9JuHgywnHmKbqYrS-wy_k/view?usp=sharing">My Resume</a>
 
 
 
